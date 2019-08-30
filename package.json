@@ -4,10 +4,10 @@
   "description": "A Cordova wrapper for the Vuforia SDK",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk.git"
+    "url": "git+https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk-v1.git"
   },
   "cordova": {
-    "id": "cordova-plugin-vuforia-sdk",
+    "id": "cordova-plugin-vuforia-sdk-v1",
     "platforms": [
       "android",
       "ios"
@@ -23,7 +23,7 @@
   "author": "Matt Rayner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk/issues"
+    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk-v1/issues"
   },
-  "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk#readme"
+  "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk-v1#readme"
 }
