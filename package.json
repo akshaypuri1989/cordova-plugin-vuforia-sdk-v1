@@ -4,7 +4,7 @@
   "description": "A Cordova wrapper for the Vuforia SDK",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattrayner/cordova-plugin-vuforia-sdk.git"
+    "url": "git+https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk.git"
   },
   "cordova": {
     "id": "cordova-plugin-vuforia-sdk",

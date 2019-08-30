@@ -8,8 +8,8 @@
     <description>Cordova Vuforia SDK Plugin</description>
     <license>MIT</license>
     <keywords>cordova,vuforia,sdk</keywords>
-    <repo>git@github.com:mattrayner/cordova-plugin-vuforia-sdk.git</repo>
-    <issue>https://github.com/mattrayner/cordova-plugin-vuforia-sdk/issues</issue>
+    <repo>git@github.com:akshaypuri1989/cordova-plugin-vuforia-sdk.git</repo>
+    <issue>https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk/issues</issue>
 
     <author>Matthew Rayner</author>
 
@@ -25,6 +25,7 @@
     <platform name="android">
         <!-- Libraries -->
         <source-file src="src/vuforia/jniLibs/armeabi/libVuforia.so" target-dir="libs/armeabi-v7a" />
+		<source-file src="src/vuforia/jniLibs/armeabi/libVuforia.so" target-dir="libs/arm64-v8a" />
         <source-file src="src/vuforia/Vuforia.jar" target-dir="libs" />
 
         <!-- Add our permissions to the Android Manifest -->
