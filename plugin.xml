@@ -8,7 +8,7 @@
     <description>Cordova Vuforia SDK Plugin</description>
     <license>MIT</license>
     <keywords>cordova,vuforia,sdk</keywords>
-    <repo>git@github.com:akshaypuri1989/cordova-plugin-vuforia-sdk.git</repo>
+    <repo>https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk.git</repo>
     <issue>https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk/issues</issue>
 
     <author>Matthew Rayner</author>
