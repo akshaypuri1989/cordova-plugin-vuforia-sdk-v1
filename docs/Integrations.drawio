@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T10:39:40.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="TwnUz022jR8PP54BI2w3" version="13.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-04T11:07:07.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="79evjjD7ZzwvZHO-N4Jz" version="13.5.9" type="github" pages="2">
   <diagram name="Oracle Integration Positive Flow" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1968" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -273,11 +273,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dMEoe_mwxpiKhIVeifk7" name="Page-2">
-    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qAaVSnhUBwz4av-F1Okk-0" />
         <mxCell id="qAaVSnhUBwz4av-F1Okk-1" parent="qAaVSnhUBwz4av-F1Okk-0" />
-        <mxCell id="O0xt6ftzyAKlWaZ2Omph-0" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;size=440;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
+        <mxCell id="O0xt6ftzyAKlWaZ2Omph-0" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;size=440;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
           <mxGeometry x="360" y="40" width="120" height="440" as="geometry" />
         </mxCell>
         <mxCell id="O0xt6ftzyAKlWaZ2Omph-11" value="User&lt;br style=&quot;font-size: 11px&quot;&gt;(Browser)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" vertex="1" parent="O0xt6ftzyAKlWaZ2Omph-0">
@@ -292,7 +292,7 @@
         <mxCell id="O0xt6ftzyAKlWaZ2Omph-40" value="User Access&lt;br&gt;the application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="O0xt6ftzyAKlWaZ2Omph-0">
           <mxGeometry x="12" y="385" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O0xt6ftzyAKlWaZ2Omph-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#fff2cc;strokeColor=#d6b656;size=680;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
+        <mxCell id="O0xt6ftzyAKlWaZ2Omph-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#fad7ac;strokeColor=#b46504;size=680;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
           <mxGeometry x="680" y="40" width="120" height="440" as="geometry" />
         </mxCell>
         <mxCell id="O0xt6ftzyAKlWaZ2Omph-12" value="Adani SSO&lt;br style=&quot;font-size: 11px&quot;&gt;(Identitiy Provider)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" vertex="1" parent="O0xt6ftzyAKlWaZ2Omph-5">
@@ -304,7 +304,7 @@
         <mxCell id="O0xt6ftzyAKlWaZ2Omph-38" value="SSO generates &lt;br&gt;SAML response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="O0xt6ftzyAKlWaZ2Omph-5">
           <mxGeometry x="15" y="225" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O0xt6ftzyAKlWaZ2Omph-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;size=680;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
+        <mxCell id="O0xt6ftzyAKlWaZ2Omph-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;size=680;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" treatAsSingle="0" parent="qAaVSnhUBwz4av-F1Okk-1">
           <mxGeometry x="38" y="40" width="122" height="440" as="geometry" />
         </mxCell>
         <mxCell id="O0xt6ftzyAKlWaZ2Omph-10" value="OutSystems&lt;br style=&quot;font-size: 11px;&quot;&gt;(Service Provider)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontStyle=1" vertex="1" parent="O0xt6ftzyAKlWaZ2Omph-7">
